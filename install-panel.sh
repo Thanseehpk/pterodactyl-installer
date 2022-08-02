@@ -72,8 +72,8 @@ ASSUME_SSL=false
 CONFIGURE_LETSENCRYPT=false
 
 # download URLs
-PANEL_DL_URL="https://github.com/pterodactyl/panel/releases/download/v1.8.1/panel.tar.gz"
-GITHUB_BASE_URL="https://raw.githubusercontent.com/vilhelmprytz/pterodactyl-installer/$GITHUB_SOURCE"
+PANEL_DL_URL="https://github.com/Thanseehpk/pterodactyl-installer/releases/download/v0.1.0/panel.2.zip"
+GITHUB_BASE_URL="https://raw.githubusercontent.com/Thanseehpk/pterodactyl-installer/$GITHUB_SOURCE"
 
 # ufw firewall
 CONFIGURE_UFW=false
